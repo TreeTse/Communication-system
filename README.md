@@ -1,5 +1,6 @@
 # Communication-system
 基于c的多功能通信系统实现
+使用proteus仿真软件模拟，图片可见communication文件
 
 功能实现说明：  
 主从机通信系统，主机为atmega128，从机1为atmega48，从机2为atmega16。通过RS485总线实现主从机通信。  
