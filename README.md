@@ -28,3 +28,5 @@
 
 对于串口的使用：  
 大部分功能都可以用串口输入来代替键盘，当输入错误，想要清楚缓冲区的指令时，输入“#”即可；舵机开启的情况下，输入*+三位数字就可以控制舵机的角度；在写入素数后，输入R+两位数便可以在LCD12864显示屏上显示24C02中相应位置储存的素数，但超过素数个数范围，便会显示“该位置的不是素数”。
+
+![](https://raw.githubusercontent.com/TreeTse/TreeTse.github.io/master/ImgStorage/%E5%A4%9A%E6%9C%BA%E9%80%9A%E8%AE%AF%E7%B3%BB%E7%BB%9F.png)
