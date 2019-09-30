@@ -197,9 +197,9 @@ void main(void)     //主函数
 		usart1_init() ;  //USART1初始化
 		usart1_send9(0x00) ; 
 		alarm_init() ;  
- 		while(1)
-    	{
-		   updatetime() ;   //时间的更新
-		   xiugai_mima() ;
-	    }
-}
+ 		while(1)    
+    	{   
+		   updatetime() ;   //时间的更新  
+		   xiugai_mima() ;   
+	    }   
+}    
